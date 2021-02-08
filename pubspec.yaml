@@ -1,5 +1,5 @@
 name: testgithub
-description: A new Flutter project.
+description: GitHub Flutter FulltimeForce.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -15,7 +15,8 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
-version: 1.0.0+1
+
+version: 1.0.0+1 
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -24,6 +25,15 @@ dependencies:
   flutter:
     sdk: flutter
 
+  #Librería que permite hacer peticiones http/https
+  http: ^0.12.0+4
+
+  #Librería que permite formatear fechas
+  intl: ^0.16.1  
+  #Librería que permite abrir urls 
+  url_launcher: ^5.7.10
+  #Librería que permite crear providers
+  provider: ^4.3.3  
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
