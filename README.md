@@ -22,7 +22,7 @@ ANDROID
     ![alt text](http://54.39.20.126/ftf/flutter_devices.png)
 
 - Una vez realizado podremos correr nuestra app utilizando el comando:
-    flutter run -d <ID DE DISPOSITIVO> 
+    flutter run -d ID DE DISPOSITIVO
 
 
 IOS
