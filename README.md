@@ -4,7 +4,7 @@ Proyecto para la demostracion de los api de github en flutter
 
 ## Getting Started
 
-Para instalar este proyecto, necesitas tener flutter instalado, 
+Para instalar este proyecto, necesitas tener flutter(Flutter 1.26.0-18.0.pre.187) instalado, 
 puede seguir los pasos descritos en el siguiente link:
 https://flutter.dev/docs/get-started/install
 
