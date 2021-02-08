@@ -15,13 +15,14 @@ Ya descargado nuestro proyecto , nos dirigimos a la carpeta de nuestro proyecto 
 flutter packages get
 
 Para ejecutar en nuestros dispositivos seguimos los siguientes pasos
+
 ANDROID
 - Listamos nuestros dispositivos conectados con el comando:
     flutter devices
     ![alt text](http://54.39.20.126/ftf/flutter_devices.png)
 
 - Una vez realizado podremos correr nuestra app utilizando el comando:
-    flutter run -d <<ID DE DISPOSITIVO>> 
+    flutter run -d <ID DE DISPOSITIVO> 
 
 
 IOS
