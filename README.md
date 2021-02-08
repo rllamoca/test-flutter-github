@@ -35,18 +35,18 @@ IOS
 
 
 DEMO ANDROID
-    ![alt text](http://54.39.20.126/ftf/android/0.jpg)
-    ![alt text](http://54.39.20.126/ftf/android/1.jpg)
-    ![alt text](http://54.39.20.126/ftf/android/2.jpg)
-    ![alt text](http://54.39.20.126/ftf/android/3.jpg)
-    ![alt text](http://54.39.20.126/ftf/android/4.jpg)
+    ![alt text](http://54.39.20.126/ftf/android/img0.jpg)
+    ![alt text](http://54.39.20.126/ftf/android/img1.jpg)
+    ![alt text](http://54.39.20.126/ftf/android/img2.jpg)
+    ![alt text](http://54.39.20.126/ftf/android/img3.jpg)
+    ![alt text](http://54.39.20.126/ftf/android/img4.jpg)
 
 DEMO IOS
-    ![alt text](http://54.39.20.126/ftf/ios/0.png)
-    ![alt text](http://54.39.20.126/ftf/ios/1.png)
-    ![alt text](http://54.39.20.126/ftf/ios/2.png)
-    ![alt text](http://54.39.20.126/ftf/ios/3.png)
-    ![alt text](http://54.39.20.126/ftf/ios/4.png)
+    ![alt text](http://54.39.20.126/ftf/ios/img0.png)
+    ![alt text](http://54.39.20.126/ftf/ios/img1.png)
+    ![alt text](http://54.39.20.126/ftf/ios/img2.png)
+    ![alt text](http://54.39.20.126/ftf/ios/img3.png)
+    ![alt text](http://54.39.20.126/ftf/ios/img4.png)
 
 
 DEMO APK
