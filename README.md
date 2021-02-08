@@ -33,21 +33,20 @@ IOS
 - Elegiremos un emulador para su ejecución (en el caso de prueba en dispositivos reales se necesita una cuenta apple developer con membresia)
     ![alt text](http://54.39.20.126/ftf/xcode.png)
 
+DEMO APK
+    [Demo APK FulltimeForce](http://54.39.20.126/ftf/demo_github.apk)
 
-DEMO ANDROID
+IMAGENES ANDROID
     ![alt text](http://54.39.20.126/ftf/android/img0.jpg)
     ![alt text](http://54.39.20.126/ftf/android/img1.jpg)
     ![alt text](http://54.39.20.126/ftf/android/img2.jpg)
     ![alt text](http://54.39.20.126/ftf/android/img3.jpg)
     ![alt text](http://54.39.20.126/ftf/android/img4.jpg)
 
-DEMO IOS
+IMAGENES IOS
     ![alt text](http://54.39.20.126/ftf/ios/img0.png)
     ![alt text](http://54.39.20.126/ftf/ios/img1.png)
     ![alt text](http://54.39.20.126/ftf/ios/img2.png)
     ![alt text](http://54.39.20.126/ftf/ios/img3.png)
     ![alt text](http://54.39.20.126/ftf/ios/img4.png)
 
-
-DEMO APK
-    [Demo APK FulltimeForce](http://54.39.20.126/ftf/demo_github.apk)
