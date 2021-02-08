@@ -47,3 +47,7 @@ DEMO IOS
     ![alt text](http://54.39.20.126/ftf/ios/2.png)
     ![alt text](http://54.39.20.126/ftf/ios/3.png)
     ![alt text](http://54.39.20.126/ftf/ios/4.png)
+
+
+DEMO APK
+    [Demo APK FulltimeForce](http://54.39.20.126/ftf/demo_github.apk)
